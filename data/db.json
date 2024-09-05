@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "React Tutorial",
+            "price": 25.00,
+            "inStock": true
+        },
+        {
+            "id": 10002,
+            "name": "HTML Tutorial",
+            "price": 15.00,
+            "inStock": false
+        },
+        {
+            "id": 10003,
+            "name": "Angular Tutorial",
+            "price": 24.00,
+            "inStock": true
+        },
+        {
+            "id": 10004,
+            "name": "PHP Tutorial",
+            "price": 22.00,
+            "inStock": false
+        },
+        {
+            "id": 10005,
+            "name": "NodeJs Tutorial",
+            "price": 31.00,
+            "inStock": true
+        },
+        {
+            "id": 10006,
+            "name": "Java Tutorial",
+            "price": 29.00,
+            "inStock": true
+        }
+    ]
+}
